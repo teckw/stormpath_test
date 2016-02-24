@@ -1,0 +1,15 @@
+{
+  "name": "stormpath_heroku",
+  "version": "1.0.0",
+  "description": "Stormpath and heroku test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teck",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-stormpath": "^2.4.0"
+  }
+}
